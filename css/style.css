@@ -1,0 +1,60 @@
+body {
+    font-family: 'Ubuntu';
+    font-size: 18px;
+    background-color: #e8e6e6;
+}
+
+#profile-img {
+    width: 100%;
+    border-radius: 50%;
+    max-width: 300px;
+    float: left;
+}
+
+h1 {
+    padding-left: 350px;
+    font-family: 'Righteous';
+    font-size: 40px;
+}
+
+a {
+    color: royalblue;
+}
+
+a:hover {
+    color: #00BFFF;
+}
+
+.bio {
+    padding-left: 350px;
+    padding-right: 200px;
+    line-height: 1.65;
+}
+
+.end {
+    padding-left: 350px;
+    font-weight: bold;
+}
+i.fa-youtube {
+    color: red;
+}
+
+i.fa-youtube:hover {
+    color: #ff6666;
+}
+
+i.fa-twitch {
+    color: rebeccapurple;
+}
+
+i.fa-twitch:hover {
+    color: #b38cd9;
+}
+
+.icon {
+    margin-left: 50px;
+    font-size: 2em;
+    margin-right: 0.5em;
+    margin-top: -0.3em;
+    display: inline-block;
+}
